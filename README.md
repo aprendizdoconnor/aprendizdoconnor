@@ -1,16 +1,24 @@
-## Hi there 👋
+# 👋 Olá, me chamo João Victor  
 
-<!--
-**aprendizdoconnor/aprendizdoconnor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 Sobre mim  
+- 🔭 Atualmente sou programador aprendiz de **Sites** e de **programas em Python**.  
+- 🌱 Estudando: **HTML**, **CSS**, **JavaScript** e **Python**.  
+- 😄 Pronomes: **ele/dele**.  
+- ⚡ Curiosidade: nas horas vagas gosto de jogar **videogame** ou **vôlei**.  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Como entrar em contato  
+- 📧 **Email:** joaovictor.alfredo2009@gmail.com  
+- 🐙 **GitHub:** https://github.com/aprendizdoconnor/  
+- 🎮 **Discord:** https://discord.com/users/1151228852056637543 
+
+---
+
+## 🛠️ Tecnologias que uso  
+<div style="display: inline_block"><br>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+</div>
