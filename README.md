@@ -42,15 +42,14 @@
 
 ## 📊 Tecnologias mais usadas
 <p align="center">
-   <img src="https://github-readme-stats.vercel.app/api?username=aprendizdoconnor&show_icons=true&theme=dark" />
-
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=aprendizdoconnor&theme=github_dark" />
 </p>
 
 ---
 
 ## 📈 Estatísticas do GitHub
 <p align="center">
-   <img src="https://github-readme-stats.vercel.app/api?username=aprendizdoconnor&show_icons=true&theme=dark&hide_border=true" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=aprendizdoconnor&theme=github_dark" />
 </p>
 
 ---
