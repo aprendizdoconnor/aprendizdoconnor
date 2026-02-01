@@ -40,21 +40,23 @@
 
 ---
 
-## 📊 Tecnologias mais usadas
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=aprendizdoconnor&theme=github_dark" />
-</p>
+## 📊 Estatísticas do GitHub
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aprendizdoconnor&show_icons=true&theme=dark&locale=pt-br)
 
 ---
 
-## 📈 Estatísticas do GitHub
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=aprendizdoconnor&theme=github_dark" />
-</p>
+## 💻 Tecnologias mais usadas
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aprendizdoconnor&layout=compact&theme=dark&locale=pt-br)
+
+---
+
+## 📈 Métricas avançadas
+
+
+![Metrics](https://metrics.lecoq.io/aprendizdoconnor?template=classic&languages=1&activity=1&repositories=1&stars=1&followup=1&isocalendar=1&language=pt)
 
 ---
 
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/aprendizdoconnor/aprendizdoconnor/output/github-contribution-grid-snake.svg" />
-</p>
+
+![Pacman](https://raw.githubusercontent.com/aprendizdoconnor/aprendizdoconnor/output/pacman.svg)
