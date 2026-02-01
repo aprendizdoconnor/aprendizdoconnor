@@ -42,7 +42,8 @@
 
 ## 📊 Tecnologias mais usadas
 <p align="center">
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aprendizdoconnor&layout=compact&theme=dark&langs_count=6&hide_border=true" />
+   <img src="https://github-readme-stats.vercel.app/api?username=aprendizdoconnor&show_icons=true&theme=dark" />
+
 </p>
 
 ---
