@@ -1,4 +1,4 @@
-nname: Pacman Contribution Graph
+name: Pacman Contribution Graph
 
 on:
   schedule:
