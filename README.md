@@ -1,16 +1,60 @@
-## Hi there 👋
+<h1 align="center">👋 Olá, eu sou João Victor</h1>
 
-<!--
-**aprendizdoconnor/aprendizdoconnor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://flagcdn.com/w40/br.png" alt="Brasil" />
+  <strong> Brasil</strong><br>
+  💻 Programador Aprendiz / Júnior <br>
+  📚 Sempre aprendendo e evoluindo na programação
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📬 Contato
+<p align="center">
+  <a href="mailto:joaovictor.alfredo2009@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://discord.com/users/1414784852733198561">
+    <img src="https://skillicons.dev/icons?i=discord" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/aprendizdoconnor">
+    <img src="https://skillicons.dev/icons?i=github" />
+  </a>
+</p>
+
+---
+
+## 🧩 Tecnologias
+
+### 🌐 Desenvolvimento Web
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js" />
+</p>
+
+### ⚙️ Back-end
+<p>
+  <img src="https://skillicons.dev/icons?i=python" />
+</p>
+
+---
+
+## 📊 Tecnologias mais usadas
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aprendizdoconnor&layout=compact&theme=dark&cache_seconds=1800" />
+</p>
+
+---
+
+## 📈 Estatísticas do GitHub
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=aprendizdoconnor&show_icons=true&theme=dark" />
+</p>
+
+---
+
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/aprendizdoconnor/aprendizdoconnor/output/github-contribution-grid-snake.svg" />
+</p>
