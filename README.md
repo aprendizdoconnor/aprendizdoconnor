@@ -42,14 +42,14 @@
 
 ## 📊 Tecnologias mais usadas
 <p align="center">
-  [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=aprendizdoconnor)](https://github.com/aprendizdoconnor/github-readme-stats)
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aprendizdoconnor&layout=compact&theme=dark&langs_count=6&hide_border=true" />
 </p>
 
 ---
 
 ## 📈 Estatísticas do GitHub
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aprendizdoconnor&show_icons=true&theme=dark" />
+   <img src="https://github-readme-stats.vercel.app/api?username=aprendizdoconnor&show_icons=true&theme=dark&hide_border=true" />
 </p>
 
 ---
