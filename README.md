@@ -42,7 +42,7 @@
 
 ## 📊 Tecnologias mais usadas
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aprendizdoconnor&layout=compact&theme=dark&cache_seconds=1800" />
+  [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=aprendizdoconnor)](https://github.com/aprendizdoconnor/github-readme-stats)
 </p>
 
 ---
