@@ -1,62 +1,44 @@
-<h1 align="center">👋 Olá, eu sou João Victor</h1>
+# 👋 João Victor
 
-<p align="center">
-  <img src="https://flagcdn.com/w40/br.png" alt="Brasil" />
-  <strong> Brasil</strong><br>
-  💻 Programador Aprendiz / Júnior <br>
-  📚 Sempre aprendendo e evoluindo na programação
-</p>
+🇧🇷 **Brasil**  
+💻 Programador aprendiz / Júnior  
+📚 Sempre evoluindo e aprendendo novas tecnologias
 
 ---
 
-## 📬 Contato
-<p align="center">
-  <a href="mailto:joaovictor.alfredo2009@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://discord.com/users/1414784852733198561">
-    <img src="https://skillicons.dev/icons?i=discord" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://github.com/aprendizdoconnor">
-    <img src="https://skillicons.dev/icons?i=github" />
-  </a>
-</p>
+## 📞 Contato
+<a href="mailto:joaovictor.alfredo2009@gmail.com">
+  <img src="https://skillicons.dev/icons?i=gmail" />
+</a>
+<a href="https://github.com/aprendizdoconnor">
+  <img src="https://skillicons.dev/icons?i=github" />
+</a>
+<a href="https://discord.gg/1414784852733198561">
+  <img src="https://skillicons.dev/icons?i=discord" />
+</a>
 
 ---
 
-## 🧩 Tecnologias
-
-### 🌐 Desenvolvimento Web
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js" />
-</p>
-
-### ⚙️ Back-end
-<p>
-  <img src="https://skillicons.dev/icons?i=python" />
-</p>
+## 🌐 Desenvolvimento Web
+<img src="https://skillicons.dev/icons?i=html,css,js" />
 
 ---
+
+## ⚙️ Backend
+<img src="https://skillicons.dev/icons?i=python" />
+
+
 
 ## 📊 Estatísticas do GitHub
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aprendizdoconnor&show_icons=true&theme=dark&locale=pt-br)
+<img src="https://github-readme-stats.vercel.app/api?username=aprendizdoconnor&show_icons=true&theme=dark&hide_border=true" />
 
 ---
 
-## 💻 Tecnologias mais usadas
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aprendizdoconnor&layout=compact&theme=dark&locale=pt-br)
-
----
-
-## 📈 Métricas avançadas
-
-
-![Metrics](https://metrics.lecoq.io/aprendizdoconnor?template=classic&languages=1&activity=1&repositories=1&stars=1&followup=1&isocalendar=1&language=pt)
+## 🧮 Tecnologias mais usadas
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aprendizdoconnor&layout=compact&theme=dark&hide_border=true" />
 
 ---
 
 
+<img src="https://raw.githubusercontent.com/aprendizdoconnor/aprendizdoconnor/output/pacman.svg" />
 
-![Pacman](https://raw.githubusercontent.com/aprendizdoconnor/aprendizdoconnor/output/pacman.svg)
