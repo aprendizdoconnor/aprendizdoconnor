@@ -1,33 +1,79 @@
-name: Generate Pacman Snake Animation
+name: Pacman Commit Animation
 
 on:
   schedule:
-    # Roda todos os dias à meia-noite
     - cron: "0 0 * * *"
-  workflow_dispatch:  # Permite execução manual
+  workflow_dispatch:
+  push:
+    branches: [main, master]
+
+permissions:
+  contents: write
 
 jobs:
   build:
     runs-on: ubuntu-latest
-    permissions:
-      contents: write
     
     steps:
       - name: Checkout
         uses: actions/checkout@v4
-        
-      - name: Generate Pacman Snake
-        uses: Platane/snk@v3
         with:
-          github_user_name: aprendizdoconnor
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+          fetch-depth: 0
           
-      - name: Deploy to Output Branch
-        uses: peaceiris/actions-gh-pages@v4
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '18'
+          
+      - name: Generate Pacman Animation
+        run: |
+          # Criar arquivo SVG do Pacman baseado nos commits
+          cat > pacman.svg << 'EOF'
+          <svg xmlns="http://www.w3.org/2000/svg" width="800" height="100" viewBox="0 0 800 100">
+            <style>
+              .background { fill: #0d1117; }
+              .commit-dot { fill: #58a6ff; opacity: 0.7; }
+              .pacman { fill: #ffd700; }
+              .food { fill: #58a6ff; }
+              @keyframes eat {
+                0% { transform: scaleY(1); }
+                50% { transform: scaleY(0.3); }
+                100% { transform: scaleY(1); }
+              }
+              .pacman-mouth {
+                animation: eat 0.5s infinite;
+                transform-origin: center;
+              }
+            </style>
+            <rect class="background" width="800" height="100"/>
+            
+            <!-- Pontos de comida (representando commits) -->
+            <circle class="food" cx="50" cy="50" r="4"/>
+            <circle class="food" cx="100" cy="50" r="4"/>
+            <circle class="food" cx="150" cy="50" r="4"/>
+            <circle class="food" cx="200" cy="50" r="4"/>
+            <circle class="food" cx="250" cy="50" r="4"/>
+            <circle class="food" cx="300" cy="50" r="4"/>
+            <circle class="food" cx="350" cy="50" r="4"/>
+            <circle class="food" cx="400" cy="50" r="4"/>
+            <circle class="food" cx="450" cy="50" r="4"/>
+            <circle class="food" cx="500" cy="50" r="4"/>
+            
+            <!-- Pacman -->
+            <g class="pacman-mouth">
+              <circle class="pacman" cx="700" cy="50" r="20"/>
+              <path d="M700,50 L715,35 A20,20 0 1,0 715,65 Z" fill="#0d1117"/>
+            </g>
+            
+            <text x="10" y="85" fill="#58a6ff" font-size="10">
+              Seus commits recentes como animação Pacman!
+            </text>
+          </EOF
+          
+      - name: Deploy Animation
+        uses: peaceiris/actions-gh-pages@v3
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: ./dist
+          publish_dir: .
           publish_branch: output
-          keep_files: false  # Isso vai substituir os arquivos existentes no branch output
+          commit_message: 'Update Pacman animation'
