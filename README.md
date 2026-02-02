@@ -51,23 +51,14 @@
 
 ---
 
-## 🎮 Pacman dos Commits
+
 
 <div align="center">
 
-![Pacman Commits](https://raw.githubusercontent.com/trinib/trinib/main/.images/marquee.svg)
 
-### Meu Gráfico de Contribuições
+![Snake animation](https://raw.githubusercontent.com/aprendizdoconnor/aprendizdoconnor/output/github-contribution-grid-snake.svg)
+
+### 📊 Gráfico de Contribuições
 ![Contribuições](https://activity-graph.herokuapp.com/graph?username=aprendizdoconnor&theme=github-dark&hide_border=true&area=true)
-
-</div>
-
----
-
-<div align="center">
-
-### 💭 "O sucesso é a soma de pequenos esforços repetidos dia após dia."
-
-### ⭐ Obrigado por visitar meu perfil! ⭐
 
 </div>
