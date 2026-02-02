@@ -10,11 +10,11 @@
 
 ## 📞 Contato
 
-<div align="center">
+<div align="center" style="display: flex; justify-content: center; gap: 10px;">
   
-[<img src="https://img.shields.io/badge/Gmail-white?style=for-the-badge&logo=gmail&logoColor=red" height="40">](mailto:joaovictor.alfredo2009@gmail.com)
-[<img src="https://img.shields.io/badge/GitHub-white?style=for-the-badge&logo=github&logoColor=black" height="40">](https://github.com/aprendizdoconnor)
-[<img src="https://img.shields.io/badge/Discord-white?style=for-the-badge&logo=discord&logoColor=blue" height="40">](https://discord.com/users/1414784852733198561)
+[<img src="https://img.icons8.com/color/96/000000/gmail.png" width="50" height="50" alt="Gmail">](mailto:joaovictor.alfredo2009@gmail.com)
+[<img src="https://img.icons8.com/color/96/000000/github.png" width="50" height="50" alt="GitHub">](https://github.com/aprendizdoconnor)
+[<img src="https://img.icons8.com/color/96/000000/discord.png" width="50" height="50" alt="Discord">](https://discord.com/users/1414784852733198561)
 
 </div>
 
@@ -24,11 +24,13 @@
 
 <div align="center">
 
-###  Desenvolvimento Web
-<img src="https://skillicons.dev/icons?i=html,css,js" alt="HTML, CSS, JavaScript" height="50" />
+### Desenvolvimento Web
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
 
-###  Backend
-<img src="https://skillicons.dev/icons?i=python" alt="Python" height="50" />
+### Backend 
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
 
 </div>
 
@@ -38,19 +40,23 @@
 
 <div align="center">
 
-![Estatísticas GitHub](https://github-readme-stats.vercel.app/api?username=aprendizdoconnor&show_icons=true&theme=dark&hide_border=true&count_private=true&include_all_commits=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9)
+
+[![Estatísticas GitHub](https://github-readme-stats.vercel.app/api?username=aprendizdoconnor&show_icons=true&count_private=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 
-![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=aprendizdoconnor&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9)
+[![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=aprendizdoconnor&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 
-![GitHub Streak](https://streak-stats.demolab.com?user=aprendizdoconnor&theme=dark&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=aprendizdoconnor&theme=radical)](https://git.io/streak-stats)
 
 </div>
+
+---
+
 
 
 <div align="center">
   
-![Pacman](https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/raw/master/Emojis/Activities/Pacman.gif)
+![Pacman Game](https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Video%20Game.gif)
 
 </div>
