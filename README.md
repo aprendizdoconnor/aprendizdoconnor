@@ -38,11 +38,12 @@
 
 <div align="center">
 
-### 📈 Visão Geral
-![Estatísticas GitHub](https://github-readme-stats.vercel.app/api?username=aprendizdoconnor&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff)
 
-### 🔤 Linguagens Mais Usadas
-![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=aprendizdoconnor&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff)
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aprendizdoconnor&theme=github_dark" width="100%">
+
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=aprendizdoconnor&theme=github_dark" width="49%">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=aprendizdoconnor&theme=github_dark" width="49%">
 
 </div>
 
