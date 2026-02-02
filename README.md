@@ -48,5 +48,5 @@
 <div align="center">
   
 ![Pacman](https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Pacman.gif)
-
+![Snake animation](https://raw.githubusercontent.com/aprendizdoconnor/aprendizdoconnor/output/github-contribution-grid-snake.svg)
 </div>
