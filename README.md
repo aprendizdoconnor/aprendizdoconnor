@@ -25,12 +25,10 @@
 <div align="center">
 
 ### Desenvolvimento Web
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML">
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS">
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
+<img src="https://skillicons.dev/icons?i=html,css,js" alt="HTML, CSS, JavaScript" height="40">
 
 ### Backend
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+<img src="https://skillicons.dev/icons?i=python" alt="Python" height="40">
 
 </div>
 
@@ -40,23 +38,22 @@
 
 <div align="center">
 
-### 📈 Atividade Recente
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aprendizdoconnor&theme=github_dark" width="100%">
+### 📈 Visão Geral
+![Estatísticas GitHub](https://github-readme-stats.vercel.app/api?username=aprendizdoconnor&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff)
 
 ### 🔤 Linguagens Mais Usadas
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=aprendizdoconnor&theme=github_dark" width="49%">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=aprendizdoconnor&theme=github_dark" width="49%">
+![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=aprendizdoconnor&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff)
 
 </div>
 
----
+
 
 
 
 <div align="center">
 
-
-![Snake animation](https://raw.githubusercontent.com/aprendizdoconnor/aprendizdoconnor/output/github-contribution-grid-snake.svg)
+![Cobrinha GitHub](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
 
 </div>
 
+-
