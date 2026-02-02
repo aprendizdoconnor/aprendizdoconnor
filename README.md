@@ -10,9 +10,9 @@
 
 ## 📞 Contato
 
-[![Gmail](https://img.shields.io/badge/Gmail-joaovictor.alfredo2009@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:joaovictor.alfredo2009@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-aprendizdoconnor-181717?style=for-the-badge&logo=github)](https://github.com/aprendizdoconnor)
-[![Discord](https://img.shields.io/badge/Discord-João_Victor-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/1414784852733198561)
+[![Gmail](https://img.shields.io/badge/Gmail-joaovictor.alfredo2009@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+[![GitHub](https://img.shields.io/badge/GitHub-aprendizdoconnor-181717?style=for-the-badge&logo=github)
+[![Discord](https://img.shields.io/badge/Discord-1414784852733198561-5865F2?style=for-the-badge&logo=discord&logoColor=white)
 
 ---
 
